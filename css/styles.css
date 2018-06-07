@@ -1,0 +1,99 @@
+body,
+html {
+    color: #2d3c49;
+}
+
+body {
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-weight: lighter;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.sub-head {
+    font-weight: lighter;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.sub-head {
+    font-size: 1.5rem;
+    margin-top: 0;
+}
+
+header {
+    border-bottom: 3px solid #7d97ad;
+    margin-bottom: 25px;
+    padding-top: 25px;
+}
+
+.hero {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.project-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.featured-project {
+    margin: 0 auto 20px;
+}
+
+h2 {
+    color: #7d97ad;
+    font-size: 2.3rem;
+    letter-spacing: .25rem;
+    font-weight: 200;
+}
+
+h3 {
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a {
+    font-size: 1.3em;
+    text-align: center;
+    color: #7d97ad;
+    text-decoration: none;
+}
+
+a:focus,
+a:hover {
+    color: #02b3e4;
+    text-decoration: underline;
+}
+
+.featured-project {
+    min-width: 220px;
+}
+
+.featured-project-hero {
+    width: 100%;
+}
+
+.featured-project {
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.logo {
+    width: 150px;
+    vertical-align: bottom;
+}
+
+.header-group {
+    vertical-align: bottom;
+    height: 100%;
+}
